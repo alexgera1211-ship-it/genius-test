@@ -174,7 +174,7 @@ padding: 16px 0;
     color: var(--color-brand-dark);
 }
 /*Tradidtions section*/
-traditions-section {
+.traditions-section {
     padding-top: 96px;
 }
 .traditions-container {
